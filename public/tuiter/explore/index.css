@@ -71,6 +71,11 @@ input::placeholder {
     height:100px;
     border-radius: 20px;
 }
+.wd-search-tuiter {
+    bottom: 5px;
+    left: 10px;
+
+}
 
 
 
