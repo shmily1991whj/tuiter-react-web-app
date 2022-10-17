@@ -1,7 +1,7 @@
 /* eslint-env jquery */
 import NavigationSidebar from "../NavigationSidebar/index.js";
-import PostSummaryList from "../PostSummaryItem";
-import PostItemList from "../PostList";
+import PostSummaryList from "../PostSummaryItem/index.js";
+import PostItemList from "../PostList/index.js";
 function exploreComponent() {
     $('#wd-explore').append(`
         <div class="row mt-2">
