@@ -1,0 +1,114 @@
+
+
+input {
+    border-radius: 25px;
+    width: 600px;
+    height:30px;
+    outline: none;
+    border: 0;
+    outline: none;
+    background-color: darkgray;
+}
+
+input::placeholder {
+    color: white;
+
+}
+.wd-gear {
+    position: relative;
+    margin-right: 12px;
+    color: white;
+
+}
+.border {
+    border-width: 1px;
+    border-style: solid;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    border-color: rgb(47, 51, 54);
+    width:800px;
+}
+
+.wd-link {
+    position: relative;
+    color: rgb(110, 118, 125);
+    text-decoration: none;
+    font-size: 15px;
+    padding: 16px;
+}
+
+.wd-postInfo {
+    font-size: 13px;
+    color: rgb(110, 118, 125);
+    padding: 2px;
+}
+
+.wd-title {
+    color: white;
+    font-size: 20px;
+    padding: 2px;
+}
+
+.wd-top-info {
+    color: white;
+    font-size: 13px;
+}
+
+.wd-newsImage{
+    width:100px;
+    height:100px;
+    border-radius: 20px;
+}
+.wd-search-tuiter {
+    bottom: 5px;
+    left: 10px;
+
+}
+.list-group-item-mine {
+    background-color: #1a1e21;
+}
+
+.icon-text-white {
+    color: white;
+}
+.text-grey {
+    color: gray;
+}
+.text-size {
+    font-size: 20px;
+    bottom: 80px;
+    color: white;
+}
+.icon {
+    background-color: transparent;
+}
+.active {
+    background-color: black;
+}
+
+
+.inquiry-list-wrap .mini-tab-active :after {
+    content: '';
+    width: auto;
+    min-width: 44px;
+    height: 2px;
+    background: #1182FB;
+    border-radius: 1px;
+    display: block;
+    margin-top: 1px;
+}
+.aa{
+    text-decoration:none;
+    border-bottom:1px solid #ccc; /* #ccc换成链接的颜色 */
+    display: inline-block;
+    padding-bottom:10px;  /*这里设置你要空的距离*/
+}
+.header-nav-item--active {
+
+    /*color: red !important;*/
+    border-bottom: 3px solid royalblue !important;
+    padding-bottom: 3px;
+    /*background-image: none !important;*/
+}

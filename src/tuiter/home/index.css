@@ -1,0 +1,34 @@
+
+.wd-image {
+    /*padding-top:12px;*/
+    /*padding-left:12px;*/
+    /*width:504px;*/
+    margin-left: -1px;
+    /*height: 264px;*/
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.border-2 {
+    width: 700px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top:none;
+
+}
+.wd-img-size {
+    margin-left: -0.5px;
+    margin-right: -0.5px;
+    margin-bottom: -1px;
+    padding: 0 !important;
+
+}
+
+.wd-inner {
+    width: -webkit-fill-available;
+    padding: 0px;
+}
+.wd-img-round {
+    border-radius: 20px 20px 0px 0px;
+
+}

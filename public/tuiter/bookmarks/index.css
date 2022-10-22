@@ -1,0 +1,135 @@
+.wd-border {
+    border-width: 1px;
+    border-style: solid;
+    /*padding-left: 16px;*/
+    /*padding-right: 12px;*/
+    /*!*padding-bottom: 12px;*!*/
+    /*padding-top: 12px;*/
+    border-color: rgb(47, 51, 54);
+    width:750px;
+}
+.border-2 {
+    border-width: 1px;
+    border-style: solid;
+    /*padding-left: 16px;*/
+    /*padding-right: 12px;*/
+    /*padding-bottom: 12px;*/
+    /*padding-top: 12px;*/
+    border-color: rgb(110, 118, 125);
+    margin-left: 124px;
+    margin-right: 122px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top:none;
+
+}
+.wd-title {
+    position: relative;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 16px;
+    padding-top: 12px;
+
+}
+.wd-handle {
+    position: relative;
+    color: rgb(110, 118, 125);
+    text-decoration: none;
+    font-size: 13px;
+    padding-left: 16px;
+    padding-bottom: 16px;
+    padding-top: 12px;
+
+}
+
+.avatar{
+    width: 80px;
+    height: 80px;
+    border-radius:48%;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 12px;
+    padding-top:12px;
+
+}
+.wd-author {
+
+    padding-left: 12px;
+    padding-top:12px;
+    color: white;
+    font-size: 15px;
+
+}
+.wd-handle {
+    padding-top:12px;
+    color: rgb(110, 118, 125);
+    font-size: 15px;
+
+}
+
+.wd-text {
+    padding-top:12px;
+    padding-left:12px;
+    padding-buttom:12px;
+    color: white;
+    font-size: 15px;
+    margin-left: 112px;
+    width: 500px;
+
+
+}
+
+.wd-picture {
+    padding-top:12px;
+    padding-left:12px;
+    width:504px;
+    margin-left: 112px;
+    height: 264px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.wd-text-title {
+    padding: 12px;
+    color: white;
+    font-size: 15px;
+    font-weight:bold;
+}
+.wd-text-two {
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 12px;
+    color: rgb(110, 118, 125);
+    font-size: 15px;
+
+}
+
+.wd-link {
+    padding-top: 12px;
+    padding-bottom: 20px;
+    padding-right: 50px;
+    color: rgb(110, 118, 125);
+    font-size: 12px;
+    position: relative;
+    text-decoration: none;
+    /*margin-left: 60px;*/
+    word-spacing: 12px;
+    font-size: 12px;
+
+}
+.fa-regular, fa-comment {
+    margin-left: 130px;
+}
+.fa-heart {
+    color: red;
+}
+.wd-grey-icon-number {
+    padding-left: 8px;
+}
+.wd-red-icon-number {
+    color: red;
+    padding-left: 8px;
+}
+
+
