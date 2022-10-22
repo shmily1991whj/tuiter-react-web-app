@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85b66a64-aa69-4ec5-9e22-6128fde8da58" name="Changes" comment="" />
+    <list default="true" id="85b66a64-aa69-4ec5-9e22-6128fde8da58" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/NavigationSidebar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/NavigationSidebar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/explore/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/explore/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/home/post-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/home/post-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/post-summary-list/post-summary-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/post-summary-list/post-summary-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/who-to-follow-list/who-to-follow-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/who-to-follow-list/who-to-follow-list-item.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +123,8 @@
       <workItem from="1666197055186" duration="446000" />
       <workItem from="1666197663958" duration="144000" />
       <workItem from="1666197827463" duration="1672000" />
-      <workItem from="1666203473225" duration="41407000" />
+      <workItem from="1666203473225" duration="41579000" />
+      <workItem from="1666457685461" duration="1271000" />
     </task>
     <servers />
   </component>
@@ -138,7 +148,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/tuiter/post-summary-list/index.js</url>
           <line>11</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

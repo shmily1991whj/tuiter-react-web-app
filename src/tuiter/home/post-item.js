@@ -26,7 +26,7 @@ const PostItem = (
         <li className="list-group-item ">
             <div className="row  border-secondary  mt-3">
                 <div className="col-1">
-                    <img className="rounded-circle" src={`/images/${post.image1}`}
+                    <img alt='userImage' className="rounded-circle" src={`/images/${post.image1}`}
                          height="40px" width="40px"/>
                 </div>
 
@@ -46,7 +46,7 @@ const PostItem = (
                         <div className="col-1">
                             <i className="fa fa-ellipsis-h me-1 position-absolute wd-ellip fs-5 text-muted"></i>
                         </div>
-                        <img className="border rounded-top wd-image" src={`/images/${post.image2}`}/>
+                        <img alt='bodyImage' className="border rounded-top wd-image" src={`/images/${post.image2}`}/>
                             <div className="border rounded-bottom">
                                 {/*<div className="border ms-3 mt-3">*/}
                                 <div>{post.title}</div>
@@ -56,25 +56,25 @@ const PostItem = (
                         </div>
                         <div className="mt-2 mb-2">
                             <span className="">
-                                    <a href="#" className="text-muted text-decoration-none">
+                                    <a href="/" className="text-muted text-decoration-none">
                                         <i className="far fa-comment"></i> <span className="ps-3">{post.icon1}</span>
                                     </a>
                             </span>
 
                             <span className="ps-5">
-                                <a href="#" className="text-muted text-decoration-none">
+                                <a href="/" className="text-muted text-decoration-none">
                                     <i className="fas fa-retweet"></i> <span className="ps-3">{post.icon2}</span>
                                 </a>
                             </span>
 
                             <span className="ps-5">
-                                <a href="#" className="text-muted text-decoration-none">
+                                <a href="/" className="text-muted text-decoration-none">
                                     <i className="far fa-heart"></i> <span className="ps-3">{post.icon3}</span>
                                 </a>
                             </span>
 
                             <span className="ps-5">
-                                <a href="#" className="text-muted text-decoration-none">
+                                <a href="/" className="text-muted text-decoration-none">
                                     <i className="fas fa-share-square"></i>
                                 </a>
                             </span>
@@ -89,7 +89,7 @@ const PostItem = (
             <li className="list-group-item ">
                 <div className="row  border-secondary  mt-3">
                     <div className="col-1">
-                        <img className="rounded-circle" src={`/images/${post.image1}`}
+                        <img alt='userImage' className="rounded-circle" src={`/images/${post.image1}`}
                              height="40px" width="40px"/>
                     </div>
 
@@ -109,30 +109,30 @@ const PostItem = (
                             <div className="col-1">
                                 <i className="fa fa-ellipsis-h me-1 position-absolute wd-ellip fs-5 text-muted"></i>
                             </div>
-                            <img className="border rounded wd-image" src={`/images/${post.image2}`}/>
+                            <img alt='bodyImage' className="border rounded wd-image" src={`/images/${post.image2}`}/>
 
                         </div>
                         <div className="mt-2 mb-2">
                             <span className="">
-                                    <a href="#" className="text-muted text-decoration-none">
+                                    <a href="/" className="text-muted text-decoration-none">
                                         <i className="far fa-comment"></i> <span className="ps-3">{post.icon1}</span>
                                     </a>
                             </span>
 
                             <span className="ps-5">
-                                <a href="#" className="text-muted text-decoration-none">
+                                <a href="/" className="text-muted text-decoration-none">
                                     <i className="fas fa-retweet"></i> <span className="ps-3">{post.icon2}</span>
                                 </a>
                             </span>
 
                             <span className="ps-5">
-                                <a href="#" className="text-muted text-decoration-none">
+                                <a href="/" className="text-muted text-decoration-none">
                                     <i className="far fa-heart"></i> <span className="ps-3">{post.icon3}</span>
                                 </a>
                             </span>
 
                             <span className="ps-5">
-                                <a href="#" className="text-muted text-decoration-none">
+                                <a href="/" className="text-muted text-decoration-none">
                                     <i className="fas fa-share-square"></i>
                                 </a>
                             </span>
