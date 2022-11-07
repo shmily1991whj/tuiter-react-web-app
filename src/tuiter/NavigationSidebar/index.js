@@ -52,7 +52,7 @@ const NavigationSidebar = () => {
                 <span className="d-flex d-none d-xl-block ns-1 "> Lists </span>
 
             </Link>
-            <Link to='/' className={`list-group-item d-flex align-items-center
+            <Link to='/tuiter/profile' className={`list-group-item d-flex align-items-center
                     ${active === 'profile'?'active':''}`}>
                 <i className="fa fa-user me-1 "> </i>
                 <span className="d-flex d-none d-xl-block ns-1 "> Profile </span>

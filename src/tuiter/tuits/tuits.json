@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 123,
+    "image": "elon.jpg",
+    "name": "Elon Musk",
+    "handle": "elonmusk",
+    "time": "・23h",
+    "title": "Countdown: Inspiration4 Mission to Space I Netflix Official site",
+    "content":"From training to launch to landing, this all-access docuseries rides along with the Inspiration4x crew on the first all-civilian orbital space...",
+
+    "liked": true,
+    "replies":"4.2k",
+    "retuits": "3.5k",
+    "likes": "37.5k"
+  },
+
+  {
+    "_id": 234,
+    "image": "ny.jpg",
+    "name": "New York Post",
+    "handle": "nypost",
+    "time": "・23h",
+    "content": "Grimes seen reading Karl marx following split with world's richest man ELON Musk",
+
+
+
+    "liked": true,
+    "replies":"965",
+    "retuits": "2.4k",
+    "likes": "4k"
+  }
+]

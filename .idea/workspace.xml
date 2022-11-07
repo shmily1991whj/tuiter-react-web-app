@@ -4,7 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85b66a64-aa69-4ec5-9e22-6128fde8da58" name="Changes" comment="" />
+    <list default="true" id="85b66a64-aa69-4ec5-9e22-6128fde8da58" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/labs/a7/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs/a7/redux-examples/hello-redux-example-component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs/a7/redux-examples/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs/a7/redux-examples/reducers/hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs/a7/redux-examples/reducers/todos-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs/a7/redux-examples/todos-component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuiter/data/profile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuiter/home/whats-happening.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuiter/profile/EditProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuiter/profile/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuiter/profile/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuiter/reducers/profile-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuiter/reducers/who-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/TuitItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/TuitStats.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/TuitsList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuits-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuits.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/NavigationSidebar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/NavigationSidebar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/home/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/post-summary-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/post-summary-list/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/who-to-follow-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/who-to-follow-list/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/who-to-follow-list/who.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/data/who.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +47,8 @@
       <list>
         <option value="HTML4 File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -43,7 +77,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/tuiter" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -55,10 +90,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/tuiter" />
+      <recent name="$PROJECT_DIR$/src/tuiter/data" />
       <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/src/tuiter/home" />
       <recent name="$PROJECT_DIR$/src/vendors" />
-      <recent name="$PROJECT_DIR$/public/tuiter/bookmarks" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/tuiter" />
@@ -68,8 +104,8 @@
       <recent name="$PROJECT_DIR$/public/tuiter/explore" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tuiter-react-web-app/public/tuiter/ExploreScreen/index.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.edit-profile.html">
+    <configuration name="edit-profile.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/index.js/public/tuiter/edit-profile.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tuiter-react-web-app/public/tuiter/HomeScreen/index.html" useBuiltInWebServerPort="true">
@@ -86,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.edit-profile.html" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.qo.html" />
         <item itemvalue="JavaScript Debug.wo.html" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +152,13 @@
       <workItem from="1666197827463" duration="1672000" />
       <workItem from="1666203473225" duration="41579000" />
       <workItem from="1666457685461" duration="1271000" />
-      <workItem from="1666546690274" duration="862000" />
+      <workItem from="1666546690274" duration="1326000" />
+      <workItem from="1666621681826" duration="10904000" />
+      <workItem from="1666660138264" duration="6000" />
+      <workItem from="1666660214278" duration="60000" />
+      <workItem from="1666660291273" duration="2146000" />
+      <workItem from="1667659441419" duration="2748000" />
+      <workItem from="1667662631732" duration="13656000" />
     </task>
     <servers />
   </component>
@@ -139,13 +181,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/tuiter/post-summary-list/index.js</url>
-          <line>11</line>
+          <line>12</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/index.js</url>
           <line>2</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
