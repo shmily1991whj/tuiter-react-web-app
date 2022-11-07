@@ -9,12 +9,6 @@ const profileSlice = createSlice({
             state.Name = action.payload;
         },
 
-        // updateFirstName(state, action) {
-        //     state.firstName = action.payload;
-        // },
-        // updateLastName(state, action) {
-        //     state.lastName = action.payload;
-        // },
         updateBio(state, action) {
             state.bio = action.payload;
         },
@@ -30,9 +24,6 @@ const profileSlice = createSlice({
     }
 });
 
-// export const {  updateFirstName, updateLastName,
-//     updateBio, updateLocation,
-//     updateWebsite, updateBirth} = profileSlice.actions;
 export const {updateName, updateBio, updateLocation,
     updateWebsite, updateBirth} = profileSlice.actions;
 export default profileSlice.reducer;

@@ -13,7 +13,6 @@ const ProfileComponent = () => {
                     <i className="fas fa-arrow-left"></i>
                 </div>
                 <div className='col-11'>
-                    {/*<h3 className='fw-bold'>{profileData.firstName} {profileData.lastName}</h3>*/}
                     <h3 className='fw-bold'>{profileData.Name}</h3>
                     <span className='text-muted'>{profileData.tuitCount} Tweets</span>
                 </div>
@@ -29,7 +28,6 @@ const ProfileComponent = () => {
             </div>
             <br/>
             <div className='mt-4'>
-                {/*<h5 className='fw-bold mb-0'>{profileData.firstName} {profileData.lastName}</h5>*/}
                 <h5 className='fw-bold mb-0'>{profileData.Name}</h5>
                 <p className='text-muted'>{profileData.handle}</p>
                 <p>{profileData.bio}</p>

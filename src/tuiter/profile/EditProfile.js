@@ -1,16 +1,11 @@
 import React, {useState} from "react";
 import {Link} from "react-router-dom";
 import {useSelector, useDispatch} from "react-redux";
-// import {updateFirstName, updateLastName,
-//     updateBio, updateLocation,
-//     updateWebsite,updateBirth } from '../reducers/profile-reducer';
 import {updateName, updateBio, updateLocation,
     updateWebsite,updateBirth } from '../reducers/profile-reducer';
 
 const EditProfile = () => {
     const data = useSelector(state => state.profile);
-    // let [firstName, setFirstName] = useState(data.firstName);
-    // let [lastName, setLastname] = useState(data.lastName);
     let [Name, setName] = useState(data.Name);
     let [bio, setBio] = useState(data.bio);
     let [location, setLocation] = useState(data.location);
@@ -20,9 +15,6 @@ const EditProfile = () => {
     const dispatch = useDispatch();
     const saveClickHandler = () => {
         dispatch(updateName(Name));
-
-        // dispatch(updateFirstName(firstName));
-        // dispatch(updateLastName(lastName));
         dispatch(updateBio(bio));
         dispatch(updateLocation(location));
         dispatch(updateWebsite(website));
@@ -58,12 +50,6 @@ const EditProfile = () => {
                           onChange={(event)=> setName(event.target.value)}></textarea>
                 <label htmlFor="floatingTextarea1">Name</label>
             </div>
-            {/*<div className="form-floating ">*/}
-            {/*    <textarea value={lastName} className="form-control"  id="floatingTextarea1.2"*/}
-            {/*              style={{height: 50+'px'}}*/}
-            {/*              onChange={(event)=> setLastname(event.target.value)}></textarea>*/}
-            {/*    <label htmlFor="floatingTextarea1.2">Last Name</label>*/}
-            {/*</div>*/}
 
             <div className="form-floating mt-4">
                 <textarea value={bio} className="form-control"  id="floatingTextarea2"
