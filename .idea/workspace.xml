@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85b66a64-aa69-4ec5-9e22-6128fde8da58" name="Changes" comment="" />
+    <list default="true" id="85b66a64-aa69-4ec5-9e22-6128fde8da58" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/data/profile.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/data/profile.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/profile/EditProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/profile/EditProfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/profile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/profile/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/reducers/profile-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/reducers/profile-reducer.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +133,7 @@
       <workItem from="1666660214278" duration="60000" />
       <workItem from="1666660291273" duration="2146000" />
       <workItem from="1667659441419" duration="2748000" />
-      <workItem from="1667662631732" duration="14303000" />
+      <workItem from="1667662631732" duration="15177000" />
     </task>
     <servers />
   </component>
