@@ -5,37 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85b66a64-aa69-4ec5-9e22-6128fde8da58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/labs/a7/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labs/a7/redux-examples/hello-redux-example-component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labs/a7/redux-examples/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labs/a7/redux-examples/reducers/hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labs/a7/redux-examples/reducers/todos-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labs/a7/redux-examples/todos-component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/data/profile.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/home/whats-happening.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/profile/EditProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/profile/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/profile/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/reducers/profile-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/reducers/who-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/TuitItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/TuitStats.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/TuitsList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuits-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuits.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/NavigationSidebar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/NavigationSidebar/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/home/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tuiter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/post-summary-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/post-summary-list/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/who-to-follow-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/who-to-follow-list/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/who-to-follow-list/who.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/data/who.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +131,7 @@
       <workItem from="1666660214278" duration="60000" />
       <workItem from="1666660291273" duration="2146000" />
       <workItem from="1667659441419" duration="2748000" />
-      <workItem from="1667662631732" duration="13656000" />
+      <workItem from="1667662631732" duration="14090000" />
     </task>
     <servers />
   </component>
