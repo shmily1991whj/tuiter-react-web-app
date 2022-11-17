@@ -7,7 +7,7 @@ const PostSummaryItem = (
             "userName": "SpaceX",
             "time": "2h",
             "title": "Tesla Cybertruck lands on Mars and picks up the Curiosity rover on its 6' bed",
-            "image": "tesla.png"
+            "image": "tesla.jpg"
         }
     }
 ) => {
@@ -15,11 +15,11 @@ const PostSummaryItem = (
         <li className="list-group-item ">
             <div className="row">
                 <div className="col-9">
-                    <span className="text-muted"> {post.topic}</span>
                     <div>
-                        <span className="fw-bold ">{post.userName} <i className="fa fa-check-circle"> </i></span>
+                        <span className="fw-bold ">{post.username} <i className="fa fa-check-circle"> </i></span>
                         <span className="text-muted"> {post.time} </span>
-                        <p className="fw-bold ">{post.title} </p>
+                        <p className="text-muted"> {post.topic}</p>
+                        <p className="card-text">{post.title} </p>
                         <span className="text-muted"> {post.tweets} </span>
                     </div>
                 </div>

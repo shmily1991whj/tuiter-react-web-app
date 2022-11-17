@@ -1,6 +1,6 @@
 import React, {useState} from "react";
-import {createTuit} from "../tuits/tuits-reducer";
 import {useDispatch} from "react-redux";
+import {createTuitThunk} from "../../services/tuits-thunks";
 
 const WhatsHappening = () => {
     let [whatsHappening, setWhatsHappening] = useState('');
@@ -9,7 +9,10 @@ const WhatsHappening = () => {
         const newTuit = {
             tuit: whatsHappening
         }
-        dispatch(createTuit(newTuit));
+        // dispatch(createTuit(newTuit));
+        dispatch(createTuitThunk(newTuit));
+        setWhatsHappening('');
+
     }
     return (
         <div className="row">
@@ -23,7 +26,7 @@ const WhatsHappening = () => {
        </textarea>
                 <div>
                     <button className="rounded-pill btn btn-primary float-end mt-2 ps-3 pe-3 fw-bold"
-                            onClick={tuitClickHandler}>
+                            onClick={() => tuitClickHandler(whatsHappening) }>
                         Tuit
                     </button>
                     <div className="text-primary fs-2">

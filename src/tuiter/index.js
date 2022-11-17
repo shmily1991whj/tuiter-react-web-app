@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 
 import NavigationSidebar from "./NavigationSidebar/index";
 import WhoToFollowList from "./who-to-follow-list/index";
@@ -17,7 +17,7 @@ import ProfileComponent from "./profile/index";
 import profileReducer from "./reducers/profile-reducer";
 import EditProfile from "./profile/EditProfile";
 const store = configureStore(
-    {reducer: {who: whoReducer, tuits: tuitsReducer, profile: profileReducer}
+    {reducer: {who: whoReducer, tuitsData: tuitsReducer, profile: profileReducer}
     });
 
 function Tuiter() {
@@ -32,8 +32,8 @@ function Tuiter() {
                  style={{"position": "relative"}}>
                 <Routes>
                     <Route index element={<HomeComponent/>}></Route>
-                    <Route path="home"    element={<HomeComponent/>}/>
-                    <Route path="explore" element={<ExploreComponent/>}/>
+                    <Route path='home' element={<HomeComponent/>}></Route>
+                    <Route path='explore' element={<ExploreComponent/>}></Route>
                     <Route path='profile' element={<ProfileComponent/>}></Route>
                     <Route path='edit-profile' element={<EditProfile/>}></Route>
                 </Routes>
