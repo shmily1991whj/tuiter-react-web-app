@@ -5,33 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85b66a64-aa69-4ec5-9e22-6128fde8da58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/images/bannerPicture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/elon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/java.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/javascript.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/jquery.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/musk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/nasa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/newyork.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/nodejs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/ny.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/profilePicture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/reactjs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/relativityspace.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/starship.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/tesla.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/virgin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/tuits-service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/tuits-thunks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/data/posts.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/PostSummaryItem/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/PostSummaryItem/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/home/whats-happening.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/home/whats-happening.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/post-summary-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/post-summary-list/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/post-summary-list/post-summary-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/post-summary-list/post-summary-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/tuits-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/tuits-service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/tuits-thunks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/tuits-thunks.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tuiter/tuits/TuitItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/tuits/TuitItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/tuits/TuitsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/tuits/TuitsList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tuiter/tuits/tuits-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuits-reducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +142,14 @@
       <workItem from="1668648500724" duration="275000" />
       <workItem from="1668648868828" duration="521000" />
       <workItem from="1668651169360" duration="477000" />
-      <workItem from="1668699584976" duration="1467000" />
+      <workItem from="1668699584976" duration="3218000" />
+      <workItem from="1668703555116" duration="87000" />
+      <workItem from="1668703881462" duration="36000" />
+      <workItem from="1668703978199" duration="92000" />
+      <workItem from="1668704311842" duration="39000" />
+      <workItem from="1668704639448" duration="403000" />
+      <workItem from="1668706344618" duration="432000" />
+      <workItem from="1668708350272" duration="648000" />
     </task>
     <servers />
   </component>

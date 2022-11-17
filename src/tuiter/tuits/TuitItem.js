@@ -7,22 +7,6 @@ import {deleteTuitThunk, updateTuitThunk} from "../../services/tuits-thunks";
 const TuitItem = (
     {
         post
-        // post = {
-        //     "image1": "elon.jpg",
-        //     "image2":"musk.jpg",
-        //     "name": "Elon Musk",
-        //     "handle": "elonmusk",
-        //     "time": "・23h",
-        //     "text1": "Amazon show about",
-        //     "text2":"@Inspiration4x",
-        //     "text3":"mission!",
-        //     "title": "Countdown: Inspiration4 Mission to Space I Netflix Official site",
-        //     "content":"From training to launch to landing, this all-access docuseries rides along with the Inspiration4x crew on the first all-civilian orbital space...",
-        //
-        //     "liked": true,
-        //     "replies": "4.2k",
-        //     "retuits": "3.5k",
-        //     "likes": "37.5k"
 
     }
 ) => {
