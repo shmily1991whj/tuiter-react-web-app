@@ -20,7 +20,7 @@ const TuitsList = () => {
                 </li>
             }
             {
-                tuits.map(post =>
+                tuits.map (post =>
                     <TuitItem
                         key={post._id} post={post}/>
 

@@ -22,10 +22,7 @@ function App() {
               {/*       element={<HelloWorld/>}/>*/}
               <Route path="/tuiter/*" element={<Tuiter/>}/>
           </Routes>
-
-
           </div>
-
       </BrowserRouter>
 
 
